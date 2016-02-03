@@ -11,7 +11,7 @@ These error and warning messages can be silenced using the DSC configuration dat
 
 ## Handling Credentials in DSC
 
-DSC configuration resources run as `Local System` by default.
+DSC  resources run as `Local System` by default.
 However, some resources require a credential, like when the `Package` resource needs to install software under a specific user account.
 
 Earlier resources used a hard-coded `Credential` property name to handle this.
