@@ -1,3 +1,8 @@
+---
+my_test_metadata: this should be visible
+my_version_control: V1
+designby: junning
+---
 # Credentials Options in Configuration Data
 >Applies To: Windows PowerShell 5.0
 
